@@ -1,0 +1,4 @@
+tg/
+data/
+.luarocks/
+.telegram-cli/
